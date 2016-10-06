@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">System Updates</string>
+    <string name="system_update_activity_name">System updates</string>
+    <string name="system_update_activity_title">System updates</string>
+    <string name="system_update_activity_battery_low_text">Battery too low to install system update. Connect charger to continue.</string>
+    <string name="system_update_activity_battery_low_charging_text">Battery too low to install system update. Wait for battery to charge sufficiently.</string>
+    <string name="system_update_activity_roaming_text">"System updates can't be downloaded while roaming."</string>
+    <string name="system_update_not_owner_text">A system software update is available, but only the owner can install it.</string>
+    <string name="system_update_requires_restart_status_text">Requires a restart</string>
+    <string name="system_update_download_waiting_status_text">Waiting to download</string>
+    <string name="system_update_downloading_status_text">Downloading</string>
+    <string name="system_update_downloading_wifi_status2_text">Via Wi-Fi only until ^1</string>
+    <string name="system_update_verifying_status_text">Verifying</string>
+    <string name="system_update_verification_failed_text">Verification failed</string>
+    <string name="system_update_verified_status_text">Downloaded and verified</string>
+    <string name="system_update_download_failed_status_text">"Couldn't download"</string>
+    <string name="system_update_download_failed_no_space_status_text">Insufficient space available to download</string>
+    <string name="system_update_download_retry_button_text">Retry download</string>
+    <string name="system_update_download_button_text">Download</string>
+    <string name="system_update_install_button_text">Restart &amp; install</string>
+    <string name="system_update_check_now_button_text">Check now</string>
+    <string name="system_update_no_update_content_text">Your system is up to date.</string>
+    <string name="system_update_last_checkin">Last checked for update ^1.</string>
+    <string name="system_update_downloading_required_update_title">Downloading update…</string>
+    <string name="system_update_downloading_required_update_text">"This could take up to ^1 minutes.
+
+Once the update is downloaded, your phone will automatically restart."</string>
+    <string name="system_update_required_update_restart_title">Restarting…</string>
+    <string name="system_update_required_update_restart_text">Your phone will now restart to update.</string>
+    <string name="system_update_restart_button_text">Restart (^1)</string>
+    <string name="system_update_connection_lost_text">No longer connected to the Internet</string>
+    <string name="system_update_connection_lost_button_text">Connect to Wi-Fi</string>
+    <string name="system_update_installing_update_title">Installing update…</string>
+    <string name="system_update_installing_update_text">"This could take up to 5 minutes.
+
+Afterwards, you'll be able to finish setting up your phone."</string>
+    <string name="system_update_update_available_notification_title">System update available</string>
+    <string name="system_update_update_downloaded_notification_title">System update downloaded</string>
+    <string name="system_update_update_available_download_message">Touch to download.</string>
+    <string name="system_update_update_downloaded_install_message">Touch to install.</string>
+    <string name="system_update_nonmandatory_update_download_failure_notification_title">"Couldn't download system update"</string>
+    <string name="system_update_nonmandatory_update_download_failure_notification_message">Download was unsuccessful. Try again.</string>
+    <string name="system_update_update_download_failure_no_space_notification_message">Not enough space available to download system update.</string>
+    <string name="system_update_countdown_complete">Shutting down…</string>
+    <string name="system_update_countdown_cancel_button">Cancel install</string>
+    <string name="system_update_complete_label">System update</string>
+    <string name="system_update_complete_ok_button">OK</string>
+</resources>
