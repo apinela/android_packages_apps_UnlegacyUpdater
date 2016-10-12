@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File 'D:\OneDrive\Devlopment\02-Workspaces\android-studio\projects\UnlegacyUpdater\app\src\main\java\unlegacy\android\update\service\DownloadService.java'" />
-    <option name="defaultScopeName" value="File 'D:\OneDrive\Devlopment\02-Workspaces\android-studio\projects\UnlegacyUpdater\app\src\main\java\unlegacy\android\update\service\DownloadService.java'" />
-    <option name="SEARCH_SCOPE" value="File 'D:\OneDrive\Devlopment\02-Workspaces\android-studio\projects\UnlegacyUpdater\app\src\main\java\unlegacy\android\update\service\DownloadService.java'" />
+    <option name="customScope" value="Directory 'D:\OneDrive\Devlopment\02-Workspaces\android-studio\projects\UnlegacyUpdater\app\src\main\res'" />
+    <option name="defaultScopeName" value="Directory 'D:\OneDrive\Devlopment\02-Workspaces\android-studio\projects\UnlegacyUpdater\app\src\main\res'" />
+    <option name="SEARCH_SCOPE" value="Directory 'D:\OneDrive\Devlopment\02-Workspaces\android-studio\projects\UnlegacyUpdater\app\src\main\res'" />
   </component>
 </application>
