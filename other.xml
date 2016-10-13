@@ -47,4 +47,22 @@
     <option name="SEND_ENVIRONMENT_VARIABLES_TO_SERVER" value="false" />
     <option name="SHOW_PATH" value="true" />
   </component>
+  <component name="RecentTaskRepositories">
+    <Redmine shared="false" url="http://bugs.unlegacy-android.cf">
+      <option name="APIKey" value="92c16608296e9a91bee3d3bdd5f3f205da6f23a0" />
+      <option name="assignedToMe" value="false" />
+      <commitMessageFormat>{id} {summary}</commitMessageFormat>
+      <option name="currentProject">
+        <RedmineProject id="-1" identifier="-- from all projects --" />
+      </option>
+      <password />
+      <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="shouldFormatCommitMessage" value="false" />
+      <option name="useHttpAuthentication" value="false" />
+      <option name="useProxy" value="false" />
+      <username />
+    </Redmine>
+  </component>
 </application>
