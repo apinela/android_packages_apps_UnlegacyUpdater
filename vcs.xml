@@ -6,8 +6,12 @@
           <option name="url" value="https://github.com/CyanogenMod/android_packages_apps_CMUpdater" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://apinela@gerrit.unlegacy-android.cf:29418/Unlegacy-Android/android_packages_apps_UnlegacyUpdater" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\OneDrive\Devlopment\02-Workspaces\android-studio" />
+    <option name="cloneParentDir" value="D:\OneDrive\Devlopment\02-Workspaces\android-studio\projects\" />
   </component>
 </application>
